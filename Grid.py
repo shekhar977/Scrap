@@ -6,7 +6,7 @@ RTSP Viewer + Grid Toggle (press 'g')
 import cv2
 import numpy as np
 
-RTSP_URL = "rtsp://admin:cctv%40321@182.79.56.146:554/Streaming/Channels/401"
+#RTSP_URL = "rtsp://admin:cctv%40321@182.79.56.146:554/Streaming/Channels/401"
 
 flag = 0
 show_grid = True  # 🔥 toggle state
